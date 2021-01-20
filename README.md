@@ -17,5 +17,5 @@ Full stack web developer with a passion for making technology accessible to ever
 [linkback]:https://www.tylermaxwell.co/resume
 [email]: mailto:tylermaxwell661@gmail.com
 [GitHub]:https://github.com/tmax818
-[LinkedIn]:https://github.com/tmax818
+[LinkedIn]:https://www.linkedin.com/in/tylermaxwell
 [phone]:tel:8185191814
