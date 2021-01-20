@@ -15,6 +15,18 @@ Full stack web developer with a passion for making technology accessible to ever
 ## Technical Skills
 
 - [HTML]()
+- [CSS]()
+- [JavaScript]()
+- [Ruby on Rails]()
+- [React]()
+- [Redux]()
+
+## Technical Projects
+
+## Employment
+
+## Education
+
 
 
 [webpage]:https://www.tylermaxwell.co
