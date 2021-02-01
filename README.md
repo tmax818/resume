@@ -5,7 +5,7 @@
 
 - [phone]
 - [email]
-- **[webpage]**
+- [webpage]
 - [GitHub]
 - [LinkedIn]
 
@@ -23,6 +23,11 @@ Full stack web developer with a passion for making technology accessible to ever
 - [Redux]()
 
 ## Technical Projects
+
+- [Personal Portfolio Website]
+  + Created using Jekyll 
+  + Hosted on Github Pages
+  + Utilized custom Sass and Liquid and Markdown for front-end
 
 ## Employment
 
@@ -50,7 +55,7 @@ Full stack web developer with a passion for making technology accessible to ever
 
 ## Education
 
-- **College of the Canyons**, Santa Clarita, CA - Estimated Completion: 2021
+- **[College of the Canyons]**, Santa Clarita, CA - Estimated Completion: 2021
   + Associate of Science: Computer Science (In Progress) 
 
 - **National University**, Los Angeles - Los Angeles, CA - 2006
@@ -64,12 +69,10 @@ Full stack web developer with a passion for making technology accessible to ever
 - **Flatiron School** - 2018
   + Full Stack Web Development
 
-
-
-
 [phone]:tel:8185191814
 [webpage]:https://www.tylermaxwell.co
 [email]: mailto:tylermaxwell661@gmail.com
 [GitHub]:https://github.com/tmax818
 [Twitter]:https://twitter.com/tmax818
 [LinkedIn]:https://www.linkedin.com/in/tylermaxwell
+[Personal Portfolio Website]:https://www.tylermaxwell.co
