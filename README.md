@@ -74,5 +74,6 @@ Full stack web developer with a passion for making technology accessible to ever
 [email]: mailto:tylermaxwell661@gmail.com
 [GitHub]:https://github.com/tmax818
 [Twitter]:https://twitter.com/tmax818
+[College of the Canyons]: https://www.canyons.edu/
 [LinkedIn]:https://www.linkedin.com/in/tylermaxwell
 [Personal Portfolio Website]:https://www.tylermaxwell.co
