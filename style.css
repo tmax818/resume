@@ -1,0 +1,19 @@
+body {
+	margin: 10px;
+	text-size-adjust: 12px;
+}
+h1 {
+	text-align: center;
+}
+
+a {
+	text-align: center;
+}
+
+#technical-skills {
+	background-color: grey;
+}
+
+#employment > li {
+	padding: 0.5px;
+}
