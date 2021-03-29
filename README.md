@@ -12,7 +12,7 @@ pdf_options:
 
 * * * 
 
-- [818-519-1814]
+- [818-809-0653]
 - [email]
 - [webpage]
 - [GitHub]
@@ -43,7 +43,6 @@ Full stack web developer with a passion for making technology accessible to ever
   + Hosted site on AWS using an EC2 instance
   + Added functionality according to client specifications using WordPress Plugins
 
-
 ## Employment
 
 - **[Nucamp]**, Bellevue, WA *Instructor*, February 2020 - Present
@@ -60,7 +59,6 @@ Full stack web developer with a passion for making technology accessible to ever
   + Designed and taught year-long curriculum for Social Science for students in grades 7-12.
   + Collaborated with colleagues in other disciplines in order to incorporate STEM in the Social Science curriculum.
   + Created and maintained discipline system in the capacity of temporary dean of students.
-
 
 - **[Los Angeles County Sheriff’s Department]**, Los Angeles, CA *Deputy Sheriff*, September 1999 - August 2007
   + Provided law enforcement services in a variety of venues.
@@ -99,4 +97,4 @@ Full stack web developer with a passion for making technology accessible to ever
 [University of California, Los Angeles]: https://www.ucla.edu/
 [National University]: https://www.nu.edu/
 [Nucamp]: https://www.nucamp.co/
-[Personal Portfolio Website]:https://www.tylermaxwell.co
+[Personal Portfolio Website]: https://www.tylermaxwell.co
