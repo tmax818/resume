@@ -1,6 +1,18 @@
+---
+stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
+body_class: markdown-body
+css: |-
+  .page-break { page-break-after: always; }
+  .markdown-body { font-size: 12px; }
+highlight_style: monokai
+pdf_options:
+  format: letter
+  margin: 10mm
+  printBackground: true
+---
 # Tyler Maxwell
-
-* * * 
+---
+<div class="contact">
 
 - [818-809-0653]
 - [email]
@@ -8,11 +20,14 @@
 - [GitHub]
 - [LinkedIn]
 
-* * * 
+</div>
 
+---
 Full stack web developer with a passion for making technology accessible to everyone.  Experience several web development frameworks coupled with a background in law enforcement and education has cultivated an eclectic and pragmatic skill set. Fascination with web development has been a natural outgrowth of my commitment to lifelong learning and enduring love of technology. Strong skills in problem solving and leadership cultivated during my 20 plus years of diverse work experience would help organizations grow and thrive. Immune to pepper spray and teargas. 
 
+
 ## Technical Skills
+<div class="contact">
 
 - [HTML]()
 - [CSS]()
@@ -20,6 +35,8 @@ Full stack web developer with a passion for making technology accessible to ever
 - [Ruby on Rails]()
 - [React]()
 - [Redux]()
+
+</div>
 
 ## Technical Projects
 
@@ -58,12 +75,10 @@ Full stack web developer with a passion for making technology accessible to ever
 
 ## Education
 
-- **[College of the Canyons]**, Santa Clarita, CA - Estimated Completion: 2021
+- **[College of the Canyons]**, Santa Clarita, CA - Estimated Completion: 2022
   + Associate of Science: Computer Science (In Progress) 
-
 - **[National University]**, Los Angeles - Los Angeles, CA - 2006
   + Secondary Teaching Credential (Social Science) 
-
 - **[University of California, Los Angeles]** - Los Angeles, CA - 2001 
   + Bachelor of Arts: Philosophy
 
@@ -72,7 +87,7 @@ Full stack web developer with a passion for making technology accessible to ever
 - **[Flatiron School]** - 2018
   + Full Stack Web Development
 
-[818-809-0653]:tel:8185191814
+[818-809-0653]:tel:8188090653
 [ADWC]: http://adwc.org/
 [College of the Canyons]: https://www.canyons.edu/
 [email]: mailto:tylermaxwell661@gmail.com
