@@ -9,20 +9,21 @@ pdf_options:
   format: letter
   margin: 10mm
   printBackground: true
+title: Tyler Maxwell
 ---
-# Tyler Maxwell
----
+
+<hr/>
 <div class="contact">
 
 - [818-809-0653]
 - [email]
-- [webpage]
+- [Webpage]
 - [GitHub]
 - [LinkedIn]
-
+- [Twitter]
 </div>
+<hr/>
 
----
 Full stack web developer with a passion for making technology accessible to everyone.  Experience several web development frameworks coupled with a background in law enforcement and education has cultivated an eclectic and pragmatic skill set. Fascination with web development has been a natural outgrowth of my commitment to lifelong learning and enduring love of technology. Strong skills in problem solving and leadership cultivated during my 20 plus years of diverse work experience would help organizations grow and thrive. Immune to pepper spray and teargas. 
 
 
@@ -35,6 +36,7 @@ Full stack web developer with a passion for making technology accessible to ever
 - [Ruby on Rails]()
 - [React]()
 - [Redux]()
+- [Linux]()
 
 </div>
 
@@ -94,7 +96,7 @@ Full stack web developer with a passion for making technology accessible to ever
 [Flatiron School]:https://learn.co/
 [Girls Who Code]: https://girlswhocode.com/
 [GitHub]:https://github.com/tmax818
-[webpage]:https://www.tylermaxwell.co
+[Webpage]:https://www.tylermaxwell.co
 [Twitter]:https://twitter.com/tmax818
 [LinkedIn]:https://www.linkedin.com/in/tylermaxwell
 [Los Angeles Unified School District]: http://www.lausd.net/
