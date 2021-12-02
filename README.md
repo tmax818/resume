@@ -46,9 +46,14 @@ Full stack web developer with a passion for making technology accessible to ever
 
 ## Employment
 
+- **[Coding Dojo]**, Bellevue, WA *Teaching Assistant*, November 2021 - Present
+  + Delivered in person instruction to groups of 4 to 6 students in web development and Python.
+  + Managed and adapted instruction based on students' progress and proficiency with web development and the Python programming language. 
+  + Monitored student progress using formal and informal assessment tools both proscribed and self generated. 
+  + 
 - **[Nucamp]**, Bellevue, WA *Instructor*, February 2020 - Present
-  + Delivered instruction via Zoom to groups of 8 to 12 students in web development.
-  + Managed and adapted instruction based on students' progress and proficiency with React and Redux. 
+  + Delivered instruction via Zoom to groups of 8 to 12 students in web development and Python.
+  + Managed and adapted instruction based on students' progress and proficiency with React and Python. 
   + Monitored student progress using formal and informal assessment tools both proscribed and self generated. 
 
 - **[Girls Who Code]**, Glendale, CA *Facilitator*, June 2019 - August 2019
@@ -88,15 +93,16 @@ Full stack web developer with a passion for making technology accessible to ever
 [ADWC]: http://adwc.org/
 [College of the Canyons]: https://www.canyons.edu/
 [email]: mailto:tylermaxwell661@gmail.com
-[Flatiron School]:https://learn.co/
+[Flatiron School]: https://learn.co/
 [Girls Who Code]: https://girlswhocode.com/
-[GitHub]:https://github.com/tmax818
-[webpage]:https://www.tylermaxwell.co
-[Twitter]:https://twitter.com/tmax818
-[LinkedIn]:https://www.linkedin.com/in/tylermaxwell
+[GitHub]: https://github.com/tmax818
+[webpage]: https://www.tylermaxwell.co
+[Twitter]: https://twitter.com/tmax818
+[LinkedIn]: https://www.linkedin.com/in/tylermaxwell
 [Los Angeles Unified School District]: http://www.lausd.net/
 [Los Angeles County Sheriff’s Department]: https://lasd.org/
 [University of California, Los Angeles]: https://www.ucla.edu/
 [National University]: https://www.nu.edu/
 [Nucamp]: https://www.nucamp.co/
-[Personal Portfolio Website]:https://www.tylermaxwell.co
+[Coding Dojo]: https://www.codingdojo.com/
+[Personal Portfolio Website]: https://www.tylermaxwell.co
