@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "--- dest: ./tylermaxwell.pdf stylesheet:   - ./style.css body_class: markdown-body pdf_options:   format: letter   margin: 10mm   printBackground: true --- # Tyler Maxwell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmax818/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmax818/resume/issues"
+  },
+  "homepage": "https://tylermaxwell.co/resume",
+  "dependencies": {
+    "markdown-pdf": "^10.0.0",
+    "md-to-pdf": "^3.3.1",
+    "remarkable-classy": "^0.0.1"
+  }
+}

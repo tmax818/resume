@@ -1,19 +1,38 @@
-body {
-	margin: 10px;
-	text-size-adjust: 12px;
-}
-h1 {
-	text-align: center;
-}
-
-a {
-	text-align: center;
-}
-
-#technical-skills {
+#technical-skills,
+#technical-projects,
+#employment,
+#education,
+#certifications {
 	background-color: grey;
 }
 
-#employment > li {
-	padding: 0.5px;
+h1 {
+	text-align: center;
+	padding: 3px;
+	margin: 3px;
+}
+
+.contact ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+}
+
+.contact li {
+	float: left;
+}
+
+.contact li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 5px 20px;
+	text-decoration: none;
+	font-weight: 100;
+}
+
+li a:hover {
+	background-color: grey;
 }
