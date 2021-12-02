@@ -1,4 +1,5 @@
 ---
+title: resume
 stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
 body_class: markdown-body
 css: |-
@@ -54,6 +55,11 @@ Full stack web developer with a passion for making technology accessible to ever
 
 ## Employment
 
+- **[Coding Dojo]**, Bellevue, WA *Teaching Assistant*, November 2021 - Present
+  + Delivered in person instruction to a group of 4 to 6 high school aged students in web development and the Python programming language.
+  + Evaluated student progress and understanding of course material.
+  + Provided relevant feedback and guidance on course work and assignments.
+ 
 - **[Nucamp]**, Bellevue, WA *Instructor*, February 2020 - Present
   + Delivered instruction via Zoom to groups of 8 to 12 students in web development.
   + Managed and adapted instruction based on students' progress and proficiency with React and Redux. 
@@ -104,4 +110,5 @@ Full stack web developer with a passion for making technology accessible to ever
 [University of California, Los Angeles]: https://www.ucla.edu/
 [National University]: https://www.nu.edu/
 [Nucamp]: https://www.nucamp.co/
+[Coding Dojo]: https://www.codingdojo.com/
 [Personal Portfolio Website]: https://www.tylermaxwell.co
