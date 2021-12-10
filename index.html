@@ -19,9 +19,9 @@
 background-color: grey;
 }
 h1 {
-text-align: center;
 padding: 3px;
 margin: 3px;
+text-align: center;
 }
 .contact ul {
 list-style-type: none;
@@ -29,9 +29,11 @@ margin: 0;
 padding: 0;
 overflow: hidden;
 background-color: white;
+display: flex;
+justify-content: center;
 }
 .contact li {
-float: left;
+flex-flow: row;
 }
 .contact li a {
 display: block;
@@ -41,8 +43,18 @@ padding: 5px 20px;
 text-decoration: none;
 font-weight: 100;
 }
+.bold {
+font-weight: bold;
+}
 li a:hover {
 background-color: grey;
+}
+.container {
+display: flex;
+}
+.header {
+display: flex;
+justify-content: space-between;
 }
 </style>
 </head>
@@ -52,10 +64,17 @@ background-color: grey;
 </header>
 <h1 id="tyler-maxwell">Tyler Maxwell</h1>
 <hr />
+<div class="header">
+<h2>
+818-809-0653
+</h2>
+<h2>
+tylermaxwell661@gmail.com
+</h2>
+</div>
+<hr />
 <div class="contact">
 <ul>
-<li><a href="tel:8188090653">818-809-0653</a></li>
-<li><a href="mailto:tylermaxwell661@gmail.com">tylermaxwell661@gmail.com</a></li>
 <li><a href="https://www.tylermaxwell.co">Webpage</a></li>
 <li><a href="https://github.com/tmax818">GitHub</a></li>
 <li><a href="https://www.linkedin.com/in/tylermaxwell">LinkedIn</a></li>
@@ -85,7 +104,7 @@ background-color: grey;
 <li>Hosted on Github Pages</li>
 <li>Utilized custom Sass and Liquid and Markdown for front-end</li>
 </ul></li>
-<li><a href="http://adwc.org/">ADWC</a>
+<li><a href="http://adwc.org">ADWC</a>
 <ul>
 <li>Used latest version of WordPress from WordPress.org</li>
 <li>Hosted site on AWS using an EC2 instance</li>
@@ -125,7 +144,6 @@ background-color: grey;
 <li>Functioned as an integral member of a criminal court staff by providing security and assisting in daily court proceedings.</li>
 </ul></li>
 </ul>
-<p><br> <br> <br></p>
 <h2 id="education">Education</h2>
 <ul>
 <li><strong><a href="https://www.canyons.edu/">College of the Canyons</a></strong>, Santa Clarita, CA - Estimated Completion: 2022

@@ -3,36 +3,51 @@
 #employment,
 #education,
 #certifications {
-	background-color: grey;
+  background-color: grey;
 }
 
 h1 {
-	text-align: center;
-	padding: 3px;
-	margin: 3px;
+  padding: 3px;
+  margin: 3px;
+  text-align: center;
 }
 
 .contact ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: white;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  display: flex;
+  justify-content: center;
 }
 
 .contact li {
-	float: left;
+  flex-flow: row;
 }
 
 .contact li a {
-	display: block;
-	color: black;
-	text-align: center;
-	padding: 5px 20px;
-	text-decoration: none;
-	font-weight: 100;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  font-weight: 100;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 li a:hover {
-	background-color: grey;
+  background-color: grey;
+}
+
+.container {
+  display: flex;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
 }

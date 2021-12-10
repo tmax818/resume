@@ -12,16 +12,24 @@ pdf_options:
   printBackground: true
 ---
 # Tyler Maxwell
+<hr/>
+<div class="header">
+<h2>818-809-0653</h2>
+
+<h2>tylermaxwell661@gmail.com</h2>
+</div>
+
+
 
 <hr/>
 <div class="contact">
 
-- [818-809-0653]
-- [tylermaxwell661@gmail.com]
+
 - [Webpage]
 - [GitHub]
 - [LinkedIn]
 - [Twitter]
+
 </div>
 <hr/>
 
@@ -82,9 +90,6 @@ Full stack web developer with a passion for making technology accessible to ever
   + Functioned as an integral member of a criminal court staff by providing security and assisting in daily court proceedings.
 
 
-<br>
-<br>
-<br>
 
 ## Education
 
@@ -100,16 +105,16 @@ Full stack web developer with a passion for making technology accessible to ever
 - **[Flatiron School]** - 2018
   + Full Stack Web Development
 
-[818-809-0653]:tel:8188090653
-[ADWC]: http://adwc.org/
+[818-809-0653]: tel:8188090653
+[ADWC]: http://adwc.org
 [College of the Canyons]: https://www.canyons.edu/
 [tylermaxwell661@gmail.com]: mailto:tylermaxwell661@gmail.com
-[Flatiron School]:https://learn.co/
+[Flatiron School]: https://learn.co/
 [Girls Who Code]: https://girlswhocode.com/
-[GitHub]:https://github.com/tmax818
-[Webpage]:https://www.tylermaxwell.co
-[Twitter]:https://twitter.com/tmax818
-[LinkedIn]:https://www.linkedin.com/in/tylermaxwell
+[GitHub]: https://github.com/tmax818
+[Webpage]: https://www.tylermaxwell.co
+[Twitter]: https://twitter.com/tmax818
+[LinkedIn]: https://www.linkedin.com/in/tylermaxwell
 [Los Angeles Unified School District]: http://www.lausd.net/
 [Los Angeles County Sheriff’s Department]: https://lasd.org/
 [University of California, Los Angeles]: https://www.ucla.edu/
