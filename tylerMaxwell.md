@@ -17,7 +17,7 @@ pdf_options:
 <div class="contact">
 
 - [818-809-0653]
-- [email]
+- [tylermaxwell661@gmail.com]
 - [Webpage]
 - [GitHub]
 - [LinkedIn]
@@ -103,7 +103,7 @@ Full stack web developer with a passion for making technology accessible to ever
 [818-809-0653]:tel:8188090653
 [ADWC]: http://adwc.org/
 [College of the Canyons]: https://www.canyons.edu/
-[email]: mailto:tylermaxwell661@gmail.com
+[tylermaxwell661@gmail.com]: mailto:tylermaxwell661@gmail.com
 [Flatiron School]:https://learn.co/
 [Girls Who Code]: https://girlswhocode.com/
 [GitHub]:https://github.com/tmax818
