@@ -70,8 +70,8 @@ Full stack web developer with a passion for making technology accessible to ever
   + Provided relevant feedback and guidance on course work and assignments.
  
 - **[Nucamp]**, Bellevue, WA *Instructor*, February 2020 - Present
-  + Delivered instruction via Zoom to groups of 8 to 12 students in web development.
-  + Managed and adapted instruction based on students' progress and proficiency with React and Redux. 
+  + Delivered instruction via Zoom to groups of 8 to 12 students in web development and Python Fundamentals.
+  + Managed and adapted instruction based on student progress and proficiency with React and Redux. 
   + Monitored student progress using formal and informal assessment tools both proscribed and self generated. 
 
 - **[Girls Who Code]**, Glendale, CA *Facilitator*, June 2019 - August 2019
@@ -88,8 +88,6 @@ Full stack web developer with a passion for making technology accessible to ever
   + Provided law enforcement services in a variety of venues.
   + Prepared and maintained written and digital logs and reports for law enforcement records and court proceedings.
   + Functioned as an integral member of a criminal court staff by providing security and assisting in daily court proceedings.
-
-
 
 ## Education
 
