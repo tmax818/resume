@@ -44,6 +44,7 @@ Full stack web developer with a passion for making technology accessible to ever
 - [JavaScript]()
 - [Ruby on Rails]()
 - [Python]()
+- [Java]()
 - [React]()
 - [Redux]()
 - [Linux]()
@@ -70,12 +71,12 @@ Full stack web developer with a passion for making technology accessible to ever
   + Provided relevant feedback and guidance on course work and assignments.
  
 - **[Nucamp]**, Bellevue, WA *Instructor*, February 2020 - Present
-  + Delivered instruction via Zoom to groups of 8 to 12 students in web development and Python Fundamentals.
+  + Delivered instruction via Zoom to groups of 8 to 12 students in React/Redux and Python Fundamentals.
   + Managed and adapted instruction based on student progress and proficiency with React and Redux. 
   + Monitored student progress using formal and informal assessment tools both proscribed and self generated. 
 
 - **[Girls Who Code]**, Glendale, CA *Facilitator*, June 2019 - August 2019
-  + Delivered Computer Science lessons while maintaining an engaging and accessible classroom. 
+  + Delivered instruction in HTML, CSS, JavaScript, Python. 
   + Managed and adapted instruction based on student proficiency with computer science concepts. 
   + Supervised a Teaching Assistant in classroom management, instruction and logistical tasks.
 
