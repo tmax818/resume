@@ -1,0 +1,49 @@
+\documentclass{article}
+\usepackage{calc}
+\usepackage[top=0.5in,bottom=0.63in,right=0.75in,left=0.75in]{geometry}
+\usepackage{hyperref}
+\usepackage{times}
+\usepackage{enumitem}
+\usepackage{fontenc}
+\usepackage{tgbonum}
+\usepackage{subfiles}
+\usepackage{lipsum}  
+
+\setlist[enumerate]{topsep=0pt}
+\setlist[itemize]{noitemsep,topsep=0pt}
+
+\newlength{\remaining}
+\renewcommand{\section}[1]{%
+  \vspace{0.4em}\setlength{\remaining}{\textwidth-\widthof{\uppercase{#1}}}
+    \noindent\underline{\fontsize{9}{15}\bfseries\uppercase{#1}\hspace*{\remaining}} \\
+}
+\renewcommand{\subsection}[3]{
+    \noindent\textbf{#1} | \emph{#2} \hfill #3
+}
+\pagenumbering{gobble}
+
+\begin{document}
+    \fontencoding{T1}
+    \fontfamily{phv}
+    \fontsize{9}{15}
+    \selectfont
+    \begin{center}
+        \begin{center}
+            \Huge\bfseries Tyler Maxwell
+        \end{center}
+            \begin{tabular}{c c c c c}
+                \href{tel:Phone-Number}{(818)809-8653} $\bullet$ & 
+                \href{mailto:mailid@mail.com}{tylermaxwell661@gmail.com} $\bullet$ & 
+                \href{https://www.linkedin.com/in/tylermaxwell/}{LinkedIn} $\bullet$ & 
+                \href{https://github.com/tmax818/}{github/tmax818} $\bullet$ &  
+                \href{https://www.tylermaxwell.co/}{www.tylermaxwell.co} \\
+        \end{tabular}
+    \end{center}    
+    \vspace{-0.75em}
+    \subfile{subsections/statement.tex}
+    % \subfile{subsections/academic_experience.tex}
+    \subfile{subsections/education.tex}
+    \subfile{subsections/work_ex.tex}
+    \subfile{subsections/awards.tex}
+  
+\end{document}
