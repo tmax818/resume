@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.30)  14 NOV 2023 11:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.30)  15 NOV 2023 14:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/tyler/Desktop/resume/latexRes/restemp.tex
-(/home/tyler/Desktop/resume/latexRes/restemp.tex
+**/home/tyler/Desktop/resume/latexRes/tylerMaxwell.tex
+(/home/tyler/Desktop/resume/latexRes/tylerMaxwell.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -198,8 +198,8 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 LaTeX Font Info:    Trying to load font information for OT1+qbk on input line 25.
  (/usr/share/texmf/tex/latex/tex-gyre/ot1qbk.fd
 File: ot1qbk.fd 2009/09/25 v1.2 font definition file for OT1/qbk
-) (./restemp.aux)
-\openout1 = `restemp.aux'.
+) (./tylerMaxwell.aux)
+\openout1 = `tylerMaxwell.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -267,9 +267,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 25.
 LaTeX Info: Redefining \pageref on input line 25.
 LaTeX Info: Redefining \nameref on input line 25.
- (./restemp.out) (./restemp.out)
+ (./tylerMaxwell.out) (./tylerMaxwell.out)
 \@outlinefile=\write3
-\openout3 = `restemp.out'.
+\openout3 = `tylerMaxwell.out'.
 
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 29.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
@@ -281,46 +281,54 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 34.
- (./subsections/statement.tex) (./subsections/education.tex
-Overfull \hbox (1.03511pt too wide) in paragraph at lines 1--1
+ (./subsections/statement.tex
+Overfull \hbox (1.03511pt too wide) in paragraph at lines 1--3
 $[]$ 
  []
 
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 4.
+) (./subsections/skills.tex
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 2.
 
-Overfull \hbox (0.76508pt too wide) in paragraph at lines 3--6
+Overfull \hbox (1.48512pt too wide) in paragraph at lines 1--28
 $[]$ 
  []
 
 ) (./subsections/work_ex.tex
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 2.
 LaTeX Font Info:    Trying to load font information for TS1+qbk on input line 4.
  (/usr/share/texmf/tex/latex/tex-gyre/ts1qbk.fd
 File: ts1qbk.fd 2009/09/25 v1.2 font definition file for TS1/qbk
-)) (./subsections/awards.tex
-Overfull \hbox (1.89018pt too wide) in paragraph at lines 1--4
+)) (./subsections/education.tex
+Overfull \hbox (0.76508pt too wide) in paragraph at lines 3--6
+$[]$ 
+ []
+
+) (./subsections/certs.tex
+Overfull \hbox (1.84514pt too wide) in paragraph at lines 1--4
 $[]$ 
  []
 
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./restemp.aux)
-Package rerunfilecheck Info: File `restemp.out' has not changed.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./tylerMaxwell.aux)
+Package rerunfilecheck Info: File `tylerMaxwell.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9178 strings out of 478287
- 149559 string characters out of 5849289
- 534183 words of memory out of 5000000
- 27251 multiletter control sequences out of 15000+600000
- 491315 words of font info for 47 fonts, out of 8000000 for 9000
+ 9196 strings out of 478287
+ 149889 string characters out of 5849289
+ 542421 words of memory out of 5000000
+ 27264 multiletter control sequences out of 15000+600000
+ 494171 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,7n,77p,655b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qbkr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on restemp.pdf (1 page, 42497 bytes).
+ 68i,7n,77p,660b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qbkr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on tylerMaxwell.pdf (1 page, 56352 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
