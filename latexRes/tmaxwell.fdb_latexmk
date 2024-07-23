@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1721765753 "/home/tyler/Desktop/resume/latexRes/tmaxwell.tex" "tmaxwell.pdf" "tmaxwell" 1721765754
+["pdflatex"] 1721765885 "/home/tyler/Desktop/resume/latexRes/tmaxwell.tex" "tmaxwell.pdf" "tmaxwell" 1721765886
   "/etc/texmf/web2c/texmf.cnf" 1705607813 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/tyler/Desktop/resume/latexRes/tmaxwell.tex" 1721765752 11892 a05303e97169836014bac6ac5d8bc813 ""
+  "/home/tyler/Desktop/resume/latexRes/tmaxwell.tex" 1721765885 11900 0e1906b10dc0c00884877b31cc3a61a8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cfr-lm/t1-clm.enc" 1278888116 3104 554211af71f34bcdc3ed0d44a5fba87f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -250,9 +250,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1705607837 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1710425383 2800458 414683a17e7a8afb8380f5e2299e9869 ""
-  "tmaxwell.aux" 1721765754 1434 0f6cfdb788432337cd1aea51f73fd43c "pdflatex"
-  "tmaxwell.out" 1721765754 773 f671766dadb89e7e2f3787ed6782522e "pdflatex"
-  "tmaxwell.tex" 1721765752 11892 a05303e97169836014bac6ac5d8bc813 ""
+  "tmaxwell.aux" 1721765886 1434 0f6cfdb788432337cd1aea51f73fd43c "pdflatex"
+  "tmaxwell.out" 1721765886 773 f671766dadb89e7e2f3787ed6782522e "pdflatex"
+  "tmaxwell.tex" 1721765885 11900 0e1906b10dc0c00884877b31cc3a61a8 ""
   (generated)
   "tmaxwell.aux"
   "tmaxwell.log"
