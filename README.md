@@ -65,7 +65,7 @@ Full stack web developer with a passion for making technology accessible to ever
 ## Employment
 
 - **[Coding Dojo]**, Bellevue, WA *Teaching Assistant*, November 2021 - Present
-  + Delivered in person instruction to a group of 4 to 6 students in web development and Python.
+  + Delivered in person and on line instruction to a group of 10 to 30 students in web development.
   + Evaluated student progress and understanding of course material.
   + Provided relevant feedback and guidance on course work and assignments.
  
